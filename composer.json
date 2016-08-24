@@ -1,0 +1,10 @@
+{
+    "name": "jklein/string-utils",
+    "description": "A basic class providing some utility functions for manipulating strings",
+    "autoload": {
+        "psr-4": {
+            "StringUtils\\": "src/"
+        }
+    },
+    "require": {}
+}
